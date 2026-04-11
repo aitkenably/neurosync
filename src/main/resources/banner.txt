@@ -1,0 +1,33 @@
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                  │
+│                                                                                                  │
+│ ░████████   ░███████  ░██    ░██ ░██░████  ░███████   ░███████  ░██    ░██ ░████████   ░███████  │
+│ ░██    ░██ ░██    ░██ ░██    ░██ ░███     ░██    ░██ ░██        ░██    ░██ ░██    ░██ ░██    ░██ │
+│ ░██    ░██ ░█████████ ░██    ░██ ░██      ░██    ░██  ░███████  ░██    ░██ ░██    ░██ ░██        │
+│ ░██    ░██ ░██        ░██   ░███ ░██      ░██    ░██        ░██ ░██   ░███ ░██    ░██ ░██    ░██ │
+│ ░██    ░██  ░███████   ░█████░██ ░██       ░███████   ░███████   ░█████░██ ░██    ░██  ░███████  │
+│                                                                        ░██                       │
+│                                                                  ░███████                        │
+│                                                                                                  │
+│                                                                                                  │
+│                                   N E U R O S Y N C   v3.7.12                                    │
+│                                 Unauthorized Cognitive Firmware                                  │
+│                                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+> Boot sequence initiated...
+> Verifying neural substrate ............. OK
+> Scanning Vault indices ................. OK
+> Checking Shard integrity ............... WARNING: minor decay detected
+> Calibrating Decay Windows .............. OK
+> Establishing Signal Jack interface ..... READY
+
+--------------------------------------------------------------
+
+NOTICE:
+    Decay is constant.
+    Stability is earned.
+    Corruption is cumulative.
+
+INITIATE SIGNAL JACK or remain fragmented.
