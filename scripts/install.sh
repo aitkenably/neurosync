@@ -5,6 +5,8 @@ APP_NAME="neurosync"
 APP_ROOT="/opt/$APP_NAME"
 BIN_DIR="/usr/local/bin"
 
+VERSION="${1}"
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
