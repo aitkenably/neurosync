@@ -82,6 +82,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>neurosync-${version}</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
